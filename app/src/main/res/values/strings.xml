@@ -3,4 +3,7 @@
     <string name="activity_2_Tv1">Activity 2</string>
     <string name="hello_world_2">Hello World 2 !</string>
     <string name="activity_main_ButtonConnexion_text">Connexion</string>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
 </resources>
