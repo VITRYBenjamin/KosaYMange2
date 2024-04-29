@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="repas_image_txt">
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+        <item>@drawable/baseline_home_24</item>
+    </integer-array>
+</resources>

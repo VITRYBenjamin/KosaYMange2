@@ -16,6 +16,35 @@
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     </string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="repas_name_txt">
+        <item>Poulet rôti avec pommes de terre et légumes</item>
+        <item>Pâtes à la carbonara</item>
+        <item>Saumon grillé avec riz basmati et asperges</item>
+        <item>Burger maison avec frites</item>
+        <item>Soupe de lentilles avec du pain de campagne</item>
+        <item>Sandwich au thon avec salade verte</item>
+        <item>Tacos au poulet avec guacamole</item>
+        <item>Ratatouille avec quinoa</item>
+        <item>Pizza aux légumes grillés</item>
+        <item>Salade César avec poulet grillé</item>
+        <item>Curry de pois chiches avec du riz</item>
+        <item>Steak de bœuf avec purée de pommes de terre</item>
+        <item>Lasagnes végétariennes</item>
+        <item>Omelette aux champignons et aux fines herbes</item>
+        <item>Sushi assorti</item>
+        <item>Pad thaï aux crevettes</item>
+        <item>Salade de quinoa aux légumes grillés</item>
+        <item>Tajine de poulet aux abricots et aux amandes</item>
+        <item>Burrito aux haricots noirs et à la salsa</item>
+        <item>Salade niçoise avec thon frais</item>
+        <item>Côtes levées BBQ avec maïs grillé</item>
+        <item>Chili con carne avec du pain de maïs</item>
+        <item>Poulet au beurre avec du riz basmati</item>
+        <item>Boulettes de viande avec sauce tomate et spaghetti</item>
+        <item>Curry de poulet avec du riz jasmine</item>
+        <item>Risotto aux champignons sauvages</item>
+        <item>Quiche aux épinards et au fromage de chèvre</item>
+        <item>Tagliatelles à la carbonara</item>
+        <item>Salade de pâtes avec légumes grillés</item>
+    </string-array>
 </resources>
