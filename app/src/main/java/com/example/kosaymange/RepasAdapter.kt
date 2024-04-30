@@ -11,11 +11,8 @@ class RepasAdapter(private val repasList: ArrayList<Repas>) :
     RecyclerView.Adapter<RepasAdapter.MyViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MyViewHolder {
-
-        val itemView = LayoutInflater.from(parent.context).inflate(R.layout.recycler_view_row,parent,false)
-
+        val itemView = LayoutInflater.from(parent.context).inflate(R.layout.meals_rv_row,parent,false)
         return MyViewHolder(itemView)
-
     }
 
     override fun getItemCount(): Int {
