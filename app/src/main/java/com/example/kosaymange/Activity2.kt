@@ -92,7 +92,6 @@ class Activity2 : AppCompatActivity() {
             val repas = Repas(repasNames[randomNumber], repasImage[randomNumber])
             if(!repasArrayList.contains(repas)){
                 repasArrayList.add(repas)
-                println(repas)
             }
         }
 

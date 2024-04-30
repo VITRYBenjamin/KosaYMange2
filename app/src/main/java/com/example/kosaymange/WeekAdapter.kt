@@ -13,9 +13,6 @@ class WeekAdapter(private val weekMealsList: ArrayList<Repas>) :
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MyViewHolder {
 
         val itemView = LayoutInflater.from(parent.context).inflate(R.layout.week_rv_row,parent,false)
-        println(itemView.findViewById(R.id.imageMealWeekDay))
-        println(itemView.findViewById(R.id.textViewWeekDay))
-        println(itemView.findViewById(R.id.TextViewMealWeekDay))
         return MyViewHolder(itemView)
     }
 
